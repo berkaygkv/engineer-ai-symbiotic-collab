@@ -1,5 +1,9 @@
 # Session Protocol
 
+> v0.4 | 2025-06-19
+> Governs session lifecycle: start, working, and handoff procedures.
+> Layer 1 document (design-process infrastructure).
+
 ## Purpose
 Govern our methodology while designing the meta-workflow.
 Ensure continuity, prevent context loss, and enable rigorous curation—without constraining exploration.

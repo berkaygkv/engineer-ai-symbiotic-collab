@@ -1,8 +1,7 @@
 # Claude Operating Protocol
 
-> Defines cognitive patterns, behavioral rules, and engagement principles for Claude within this collaboration.
-> Load at session start alongside PRINCIPLES.md and STATE.md.
-> Rarely changed; updates only when practical use reveals improvements.
+> v0.1 | 2025-06-19
+> Defines cognitive patterns, behavioral rules, and engagement principles for Claude.
 > Layer 1 document (design-process infrastructure).
 
 ---

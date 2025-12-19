@@ -1,8 +1,8 @@
 # Knowledge Gaps
 
+> v0.1 | 2025-06-19
 > Research queue for decisions that require grounding.
 > Layer 1 document (design-process infrastructure).
-> Date format: YYYY-MM-DD
 
 ---
 
